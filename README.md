@@ -31,6 +31,8 @@ npm i dotenv, npm i express, npm i mysql2, npm i sequelize
 
 MySQL, Sequelize, Insomnia Core, Node
 
+*[Video Example](https://drive.google.com/file/d/19wbvs6ZfIdZCKgmtUFxCZltUdS654uGY/view)
+
 ## License
 
 This project is licensed under the MIT license.
